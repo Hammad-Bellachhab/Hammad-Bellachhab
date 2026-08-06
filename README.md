@@ -4,13 +4,17 @@ Python | AI Agents & Workflow Automations | Data Engineering
 
 Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https://taxdown.es) · President @ [<img src="telecoemprende_logo_narajna.png" height="28" valign="middle"> TelecoEmprende](https://github.com/telecoemprende)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-USUARIO)
+
+</div>
 
 ---
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -28,4 +32,4 @@ Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,github)](https://skillicons.dev)
