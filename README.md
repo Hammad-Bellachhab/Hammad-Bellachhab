@@ -2,7 +2,7 @@
 
 Python | AI Agents & Workflow Automations | Data Engineering
 
-Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https://taxdown.es) · President @ [<img src="telecoemprende_logo_narajna.png" height="28" valign="middle"> TelecoEmprende](https://github.com/telecoemprende)
+Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https://taxdown.es) · President @ [<img src="telecoemprende_logo_narajna.png" height="28" valign="middle"> TelecoEmprende](https://www.instagram.com/telecoemprende/)
 
 <div align="center">
 
