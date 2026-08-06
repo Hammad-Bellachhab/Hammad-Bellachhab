@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hammad Bellachhab 👋
 
-<!--
-**Hammad-Bellachhab/Hammad-Bellachhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ TaxDown · President @ Telecoemprende
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/hammad-bellachhab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+
+## Tools & Skills
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-000000?logo=robotframework&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
