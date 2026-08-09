@@ -14,5 +14,6 @@ Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https:
 
 
 ### Languages, Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,github,n8n)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker,git,github)](https://skillicons.dev)
+![n8n](https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=n8n&logoColor=EA4B71&labelColor=1a1a1a)
 ![Claude](https://img.shields.io/badge/-%20-1a1a1a?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a1a)
