@@ -26,6 +26,4 @@ Data Engineering @ ETSIT UPM · Automation & AI Agents Intern @ [TaxDown](https:
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,github)](https://skillicons.dev)
