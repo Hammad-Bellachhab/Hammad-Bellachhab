@@ -24,9 +24,6 @@ Data Engineering @ ETSIT UPM · President @ [TelecoEmprende](https://www.instagr
   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" alt="MongoDB" />
   </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" />
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git" />
   </a>
@@ -35,8 +32,5 @@ Data Engineering @ ETSIT UPM · President @ [TelecoEmprende](https://www.instagr
   </a>
   <a href="https://n8n.io/">
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
-  </a>
-  <a href="https://www.anthropic.com/claude">
-    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   </a>
 </p>
