@@ -1,8 +1,8 @@
 # Hi, I'm Hammad Bellachhab 👋
 
-Python | AI Agents & Workflow Automations | Data Engineering
+**Python Developer | AI Agents & Workflow Automation | Data Engineering**
 
-Data Engineering @ ETSIT UPM · President @ [<img src="telecoemprende_logo_narajna.png" height="28" valign="middle"> TelecoEmprende](https://www.instagram.com/telecoemprende/)
+Data Engineering @ ETSIT UPM · President @ [TelecoEmprende](https://www.instagram.com/telecoemprende/)
 
 <div align="center">
 
@@ -12,18 +12,13 @@ Data Engineering @ ETSIT UPM · President @ [<img src="telecoemprende_logo_naraj
 
 ---
 
-## Languages
+## Tools
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Tools & Skills
-
-![SQL](https://img.shields.io/badge/SQL-4A4A4A?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-6E5BC6?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI_AUTOMATION-1a1a1a?style=for-the-badge)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mongodb,mysql,docker,git&theme=dark" height="65" alt="Python, PostgreSQL, MongoDB, MySQL, Docker and Git" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40" alt="n8n" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40" alt="Claude" />
+  <img src="https://img.shields.io/badge/AI_Agents-242938?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="40" alt="Workflow Automation" />
+</p>
 
