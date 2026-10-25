@@ -30,7 +30,4 @@ Data Engineering @ ETSIT UPM · President @ [TelecoEmprende](https://www.instagr
   <a href="https://www.docker.com/">
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" alt="Docker" />
   </a>
-  <a href="https://n8n.io/">
-    <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
-  </a>
 </p>
