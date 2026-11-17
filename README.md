@@ -79,20 +79,5 @@ contributions  784 (last 12 months)
 
 ---
 
-### `~ $ contact`
-
-<p align="left">
-  <a href="mailto:hammad.bellachhab@alumnos.upm.es">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/hammad-bellachhab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/hammad-bellachhab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/telecoemprende/">
-    <img src="https://img.shields.io/badge/TelecoEmprende-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TelecoEmprende" />
-  </a>
-</p>
-```
+~ $ contact
+<p align="left">   <a href="mailto:hammad.bellachhab@alumnos.upm.es">     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />   </a>   <a href="https://github.com/hammad-bellachhab">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />   </a>   <a href="https://www.linkedin.com/in/hammad-bellachhab/">     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />   </a>   <a href="https://www.instagram.com/telecoemprende/">     <img src="https://img.shields.io/badge/TelecoEmprende-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="TelecoEmprende" />   </a> </p> ```
